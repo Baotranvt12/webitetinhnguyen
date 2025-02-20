@@ -1,0 +1,93 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fffae6;
+    
+}
+
+/* Header */
+.header {
+    background-image: url("https://imgcdn.stablediffusionweb.com/2024/12/6/8e803799-5905-4c2e-b5ae-08bb1c64a2a1.jpg");
+    text-align: center;
+    padding: 30px;
+    color: #f5710c;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1 {
+    margin: 0;
+    font-size: 36px;
+    color: azure;
+}
+
+div {
+    padding: 20px;
+    text-align: center;
+}
+
+.menu {
+    background-color: #fff2e6;
+}
+
+.menu-items {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.item {
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Contact */
+.contact {
+    background-color: #ffcc99;
+}
+
+.order {
+    background-color: #fff2e6;
+    padding: 10px;
+}
+
+input{
+  padding: 12px 10px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  border-style: dashed;
+  border-color: #f5710c;
+}
+/* Footer */
+footer {
+    background-color: #ff9966;
+    text-align: center;
+    padding: 10px;
+    color: white;
+}
+
+button {
+    background-color: #f5710c;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+h2{
+    color: #f5710c;
+}
